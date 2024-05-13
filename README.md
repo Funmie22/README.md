@@ -1,6 +1,6 @@
 # Hello there, nice to meet you 😃
 
-https://img.shields.io/badge/-Ishola%20Deborah-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ishola-Deborah)](https://www.linkedin.com/in/Funmi Dahunsi
+https://img.shields.io/badge/-Ishola%20Deborah-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ishola-Deborah)](https://www.linkedin.com/in/Funmi-Dahunsi
 I am a Software Engineer who is passionate about learning new skillsets, I am currently learning frontend development at [Valdymas-intelligence](https://valdymasintelligence.org/)
 
 *Here's a quick summary about me*:
