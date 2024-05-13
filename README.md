@@ -1,7 +1,8 @@
 # Hello there, nice to meet you 😃
 
  [![Linkedin Badge](https://img.shields.io/badge/-Funmi%20Dahunsi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Funmi-Dahunsi)](https://www.linkedin.com/in/Funmi-Dahunsi) 
- [![Twitter Badge](https://img.shields.io/badge/-@OpeyemiDebb-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/OpeyemiDebb)](https://twitter.com/OpeyemiDebb)
+ [![Twitter Badge](https://img.shields.io/badge/-@OpeyemiDebb-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/DahunsiR9364)](https://twitter.com/)
+ 
 I am a Software Engineer who is passionate about learning new skillsets, I am currently learning frontend development at [Valdymas-intelligence](https://valdymasintelligence.org/)
 
 *Here's a quick summary about me*:
